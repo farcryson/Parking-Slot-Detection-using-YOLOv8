@@ -1,7 +1,7 @@
 
 # Parking Slot Detection using YOLOv8
 
-This project aims to detect parking slots using the YOLOv8 model. The dataset for training and testing the model was created using Roboflow.
+This project aims to detect empty parking slots using the YOLOv8 model. The dataset for training and testing the model was created using Roboflow.
 
 
 ## Links
